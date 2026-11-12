@@ -151,7 +151,8 @@ ul.list{list-style:none;margin:0;padding:0}
 }
 @media (prefers-reduced-motion: reduce){ .bar span,.toast{transition:none} }
 </style>
-
+<!-- Biblioteca para ler PDF no navegador -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
 </head>
 <body>
 <div class="shell">
@@ -187,6 +188,37 @@ ul.list{list-style:none;margin:0;padding:0}
             <textarea id="skills" spellcheck="false" placeholder="Uma por linha ou separadas por vírgula"></textarea>
             <p class="hint">Lista de exemplo. Troque pelas competências do seu currículo. No Radar real, o coletor em Python lê o PDF e preenche isso.</p>
           </div>
+          <div style="margin: 20px 0; padding: 15px; border: 1px solid #ccc; border-radius: 8px;">
+        <div style="margin: 20px 0; padding: 15px; border: 1px solid #ccc; border-radius: 8px;">
+            <h3>🎯 Radar de Skills (Currículo)</h3>
+            <label for="cv-upload">Selecione seu currículo em PDF:</label>
+            <input type="file" id="cv-upload" accept="application/pdf" style="margin-bottom: 10px; display: block;">
+            <p id="cv-status" style="font-weight: bold; color: #444; margin: 0;"></p>
+            <p id="cv-result" style="font-size: 0.9em; color: green; margin-top: 5px;"></p>
+        </div>
+
+        <script type="module">
+            import { processarCurriculo } from './js/cv_parser.js';
+
+            document.getElementById('cv-upload').addEventListener('change', async (e) => {
+                const file = e.target.files[0];
+                if (!file) return;
+
+                const statusEl = document.getElementById('cv-status');
+                const resultEl = document.getElementById('cv-result');
+                resultEl.innerText = "";
+                
+                try {
+                    const skills = await processarCurriculo(file, (msg) => statusEl.innerText = msg);
+                    statusEl.innerText = "Sucesso!";
+                    resultEl.innerText = `Você tem ${skills.length} skills detectadas: ${skills.join(', ')}`;
+                } catch (error) {
+                    console.error(error);
+                    statusEl.innerText = `Erro: ${error.message}`;
+                    statusEl.style.color = "red";
+                }
+            });
+        </script>
           <div>
             <span class="lbl" id="engine-lbl">Motor de match</span>
             <div class="seg" role="group" aria-labelledby="engine-lbl">
