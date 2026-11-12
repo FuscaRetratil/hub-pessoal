@@ -4,3 +4,6 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 *.log
+
+# resposta bruta da sonda (pode ter nome/e-mail de recrutador); a fixture versionada é um recorte limpo
+tests/fixtures/gupy_job_search_real.json

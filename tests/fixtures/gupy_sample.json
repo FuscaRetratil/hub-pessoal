@@ -1,48 +1,78 @@
 {
+  "_nota": "Recorte de uma resposta real de https://portal.gupy.io/api/job-search/jobs?jobName=QA&limit=5&offset=0 em 2026-11-12. Descrições cortadas (mantidos os trechos de requisitos e as palavras grudadas como vêm da Gupy). O último item é sintético, para testar vaga sem id.",
   "data": [
     {
-      "id": 1001,
-      "name": "Estagiário de QA",
-      "careerPageName": "Orbita Pagamentos",
-      "city": "Recife",
-      "state": "Pernambuco",
-      "workplaceType": "on-site",
-      "isRemoteWork": false,
-      "type": "vacancy_type_internship",
-      "jobUrl": "https://orbita.gupy.io/jobs/1001",
-      "publishedAt": "2026-11-10T12:00:00.000Z",
-      "description": "<p>Atuar em <strong>testes manuais</strong>, elaborar casos de teste e registrar bugs no Jira.</p><p>Diferencial: Python e SQL.</p>"
-    },
-    {
-      "id": 1002,
-      "name": "Analista de QA Jr (Remoto)",
-      "careerPageName": "Nuvem Sul Tecnologia",
-      "city": "São Paulo",
-      "state": "São Paulo",
+      "id": 12871194,
+      "name": "Analista de QA Pleno     ",
+      "applicationDeadline": "2027-01-10T00:00:00.000Z",
+      "description": "Descrição da vagaA FCamara apoiando empresas disruptivas por meio de soluções digitais completas e escaláveis.Responsabilidades e atribuiçõesStack Principal: Karate | Java | JMeter/K6Atividades- Desenvolver e manter automações de testes de APIs REST e microsserviços utilizando Karate Framework.- Executar testes de performance, carga e stress com JMeter ou K6, apoiando na análise dos resultados.- Contribuir na configuração e manutenção da execução dos testes em pipelines de CI/CD.Requisitos Obrigatórios- Experiência como QA de Automação com foco em testes de APIs.- Experiência com Git e integração contínua (CI/CD).- Conhecimento em BDD.- Conhecimento em bancos de dados relacionais e consultas SQL.Vivência em metodologias ágeis (Scrum/Kanban).Experiência com IA",
+      "careerPageName": "VENHA SER #SANGUELARANJA 🧡🚀",
+      "careerPageLogo": "https://attachments.gupy.io/production/companies/50527/career/117226/images/2022-12-05_17-18_logo.png",
+      "careerPageUrl": "",
+      "type": "vacancy_type_outsource",
+      "publishedDate": "2026-11-11T13:07:08.340Z",
       "workplaceType": "remote",
-      "isRemoteWork": true,
-      "type": "vacancy_type_effective",
-      "jobUrl": "https://nuvemsul.gupy.io/jobs/1002",
-      "publishedAt": "2026-11-09T09:30:00.000Z",
-      "descriptionPlainText": "Automação com Cypress e JavaScript, testes de API no Postman, pipelines de CI/CD com Jenkins, Docker. Inglês intermediário."
+      "city": "",
+      "state": "",
+      "jobUrl": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NzExOTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "badges": {"friendlyBadge": true, "isPWD": true},
+      "disabilities": true
     },
     {
-      "id": 1003,
-      "name": "Desenvolvedor Frontend Pleno",
-      "careerPageName": "Casa Digital",
-      "city": "Recife",
-      "state": "Pernambuco",
-      "workplaceType": "hybrid",
-      "isRemoteWork": false,
+      "id": 12866870,
+      "name": "Engenheiro(a) de Teste de Software Pleno (QA)",
+      "applicationDeadline": "2026-12-10T00:00:00.000Z",
+      "description": "\nA SoftExpert desenvolve uma plataforma de software integrada e personalizável.\n\nA Oportunidade\nEstamos buscando um(a) profissional QA Pleno!Responsabilidades e atribuiçõesRealizar testes de software para identificar falhas;Participar do planejamento e execução de testes automatizados, sempre visando a qualidade e a eficiência;Requisitos e qualificaçõesExperiência prévia em Quality Assurance e testes de software;Você irá se destacar se tiver:Experiência com ferramentas de automação de testes.Informações adicionaisO que oferecemos para os nossos #Experts?&nbsp;🩺Plano de Saúde💟Seguro de Vida\n🐶 Convênio Pet",
+      "careerPageName": "Carreiras SoftExpert",
+      "careerPageLogo": "https://attachments.gupy.io/production/companies/68472/career/165094/images/2025-02-27_16-21_companyLogoUrl.png",
+      "careerPageUrl": "",
       "type": "vacancy_type_effective",
-      "jobUrl": "https://casadigital.gupy.io/jobs/1003",
-      "publishedAt": "2026-11-08T15:00:00.000Z",
-      "descriptionPlainText": "Experiência com React, TypeScript, HTML, CSS, JavaScript moderno e Git."
+      "publishedDate": "2026-11-10T18:32:39.941Z",
+      "workplaceType": "remote",
+      "city": "",
+      "state": "",
+      "jobUrl": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI4NjY4NzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "badges": {"friendlyBadge": true, "isPWD": true},
+      "disabilities": true
+    },
+    {
+      "id": 12864155,
+      "name": "Analista QA Funcional Jr.",
+      "applicationDeadline": "2026-12-25T00:00:00.000Z",
+      "description": "¡Sé parte de Stefanini!Responsabilidades y atribucionesDefinir e implementar prácticas alineadas con la metodología ágil (SCRUM) y cascada.Requisitos TécnicosHabilidad para crear casos de prueba en base a requerimientos funcionales.Conocimiento básico de consultas de base de datos para validación de registros y calidad&nbsp;de datos (Oracle, SQL).Conocimiento básico de programación Visual Basic o Java (deseable).Habilidades BlandasProactivo y ordenado",
+      "careerPageName": "Stefanini Latam",
+      "careerPageLogo": "https://attachments.gupy.io/production/companies/54256/career/114440/images/2025-06-18_21-01_companyLogoUrl.png",
+      "careerPageUrl": "",
+      "type": "vacancy_type_effective",
+      "publishedDate": "2026-11-10T15:00:00.000Z",
+      "workplaceType": "hybrid",
+      "city": "San Salvador",
+      "state": "",
+      "jobUrl": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4NjQxNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "badges": {},
+      "disabilities": false
+    },
+    {
+      "id": 12861486,
+      "name": "QA Automation",
+      "applicationDeadline": "2027-01-09T00:00:00.000Z",
+      "description": "¡Sé parte de Stefanini!Responsabilidades y atribuciones\n· Diseñar, desarrollar, ejecutar y mantener scripts de prueba automatizados.· Apoyar la integración de pruebas automatizadas en pipelines CI/CD, cuando sea aplicable.Requisitos y calificaciones\n· Experiencia con pruebas de API e integración.· Experiencia trabajando en equipos Agile.\n\n",
+      "careerPageName": "Stefanini Latam",
+      "careerPageLogo": "https://attachments.gupy.io/production/companies/54256/career/114440/images/2025-06-18_21-01_companyLogoUrl.png",
+      "careerPageUrl": "",
+      "type": "vacancy_type_effective",
+      "publishedDate": "2026-11-10T12:00:00.000Z",
+      "workplaceType": "on-site",
+      "city": "Bogotá, D.c.",
+      "state": "",
+      "jobUrl": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4NjE0ODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "badges": {},
+      "disabilities": false
     },
     {
       "id": null,
-      "name": "Vaga sem id deve ser ignorada"
+      "name": "Vaga sintética sem id, deve ser ignorada"
     }
   ],
-  "pagination": {"offset": 0, "limit": 50, "total": 3}
+  "pagination": {"total": 58, "limit": 5, "offset": 0}
 }

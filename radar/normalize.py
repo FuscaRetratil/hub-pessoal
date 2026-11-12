@@ -9,8 +9,8 @@ LEVEL_RULES = [
     ("Estágio", r"\bestagi|\binternship\b|\bintern\b"),
     ("Trainee", r"\btrainee\b"),
     ("Júnior", r"\bjunior\b|\bjr\b"),
-    ("Pleno", r"\bpleno\b|\bpl\b"),
-    ("Sênior", r"\bsenior\b|\bsr\b|\bespecialista\b|\blead\b|\bstaff\b|\bprincipal\b"),
+    ("Pleno", r"\bpleno\b|\bpl\b|\bmid\b|\bmid-level\b|\bii\b"),
+    ("Sênior", r"\bsenior\b|\bsr\b|\bespecialista\b|\blead\b|\blider\b|\bstaff\b|\bprincipal\b|\biii\b|\biv\b"),
 ]
 
 AREA_RULES = [
@@ -19,6 +19,7 @@ AREA_RULES = [
     ("Dados", r"\bdados\b|\bdata\b|\bbi\b|analytics|cientista"),
     ("Suporte", r"suporte|help ?desk|service desk"),
     ("Design", r"\bdesigner\b|\bdesign\b|\bux\b|\bui\b"),
+    ("TI (geral)", r"\btecnologia(?:\s+da\s+informacao)?\b|\bti\b|\binformatica\b"),
     ("Marketing", r"marketing|social media|\bseo\b|conteudo"),
     ("Administrativo", r"administrativ|assistente|secretari|recepcion"),
 ]
@@ -54,6 +55,10 @@ def infer_level(title: str, job_type: str = "") -> str:
 
 def infer_area(title: str) -> str:
     t = norm(title)
+    if re.search(r"\bprofessor|\bdocente\b|\bedital\b", t):
+        return "Outras"
+    if re.search(r"testes? de (?:cabine|durabilidade)", t):
+        return "Outras"
     for area, pattern in AREA_RULES:
         if re.search(pattern, t):
             return area

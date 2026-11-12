@@ -43,6 +43,14 @@ def test_dedupe_key_ignora_acento_e_caixa():
         ("Engenheiro de Software Sênior", "Sênior"),
         ("Trainee em Tecnologia", "Trainee"),
         ("Analista de Dados", "Não informado"),
+        # títulos reais da coleta de 2026-11-12
+        ("QA Analyst | Mid (Remote)", "Pleno"),
+        ("Mid-Level UiPath Test Automation Developer | QA", "Pleno"),
+        ("PDI SW - Pessoa Desenvolvedora Fullstack II (React / NodeJS)", "Pleno"),
+        ("Analista de Sistemas III", "Sênior"),
+        ("QA Automatizado - Líder COE", "Sênior"),
+        ("Analista de Testes Seguros (Sistemas 2) | Cresol Confederação", "Não informado"),
+        ("QA Automation", "Não informado"),
     ],
 )
 def test_infer_level(title, expected):
@@ -63,6 +71,17 @@ def test_infer_level_usa_tipo_da_vaga_quando_titulo_nao_diz():
         ("Analista de Suporte", "Suporte"),
         ("Designer de Produto", "Design"),
         ("Cozinheiro", "Outras"),
+        # títulos reais da coleta de 2026-11-12
+        ("Analista de Produto - Testes de Cabine", "Outras"),
+        ("Analista de Produto: gestão de Testes de Durabilidade", "Outras"),
+        ("Edital 2027.1 | Professor(a) Universitário(a) EAD - Engenharia de Software, Qualidade e Testes de Software", "Outras"),
+        ("Estágio Tecnologia - Sistemas Corporativos", "TI (geral)"),
+        ("Estágio em Tecnologia da Informação - Infraestrutura", "TI (geral)"),
+        ("Estágio Tecnologia | Safra", "TI (geral)"),
+        ("Estágio - Suporte de Tecnologia da Informação (Recife)", "Suporte"),
+        ("Estágio em Dados e Tecnologia | São Paulo - SP", "Dados"),
+        ("Analista de Tecnologia - Desenvolvedor(a) Mobile React Native", "Desenvolvimento"),
+        ("Analista de Testes - Sistemas Embarcados e Redes Seguras| CAMPINAS/SP", "QA/Testes"),
     ],
 )
 def test_infer_area(title, expected):
