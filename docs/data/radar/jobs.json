@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-11-12T04:19:52Z",
+ "generated_at": "2026-11-12T17:21:48Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 121
+   "count": 120
   }
  },
  "jobs": [
+  {
+   "id": "12879565",
+   "source": "gupy",
+   "title": "QA Especialista (Quality Assurance) – Automação de Testes.",
+   "company": "Grupo JCA",
+   "city": "Barueri",
+   "mode": "Híbrido",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://embarquejca.gupy.io/job/eyJqb2JJZCI6MTI4Nzk1NjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-12",
+   "reqs": [
+    "Testes automatizados",
+    "Testes de API",
+    "Jira",
+    "Git",
+    "CI/CD",
+    "SQL",
+    "API REST",
+    "Azure"
+   ]
+  },
   {
    "id": "12871194",
    "source": "gupy",
@@ -990,21 +1012,6 @@
    ]
   },
   {
-   "id": "12705341",
-   "source": "gupy",
-   "title": "Auxiliar Técnico de Testes de Software - Afirmativa para Pessoas com Deficiência (PcD)",
-   "company": "Instituto de Pesquisas ELDORADO",
-   "city": "Brasília",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://institutoeldorado.gupy.io/job/eyJqb2JJZCI6MTI3MDUzNDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-21",
-   "reqs": [
-    "Lógica de programação"
-   ]
-  },
-  {
    "id": "12754502",
    "source": "gupy",
    "title": "DESENVOLVEDOR FULLSTACK SR - JAVA/REACT",
@@ -1120,32 +1127,6 @@
     "JavaScript",
     "React",
     "API REST"
-   ]
-  },
-  {
-   "id": "12753048",
-   "source": "gupy",
-   "title": "Pessoa Desenvolvedora Frontend Sênior | Remoto",
-   "company": "Aurum",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "Desenvolvimento",
-   "url": "https://aurum.gupy.io/job/eyJqb2JJZCI6MTI3NTMwNDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-20",
-   "reqs": [
-    "Cypress",
-    "Playwright",
-    "CI/CD",
-    "SQL",
-    "JavaScript",
-    "TypeScript",
-    "Java",
-    "React",
-    "HTML",
-    "CSS",
-    "API REST",
-    "AWS"
    ]
   },
   {
