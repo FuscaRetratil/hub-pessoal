@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 1001,
+      "name": "Estagiário de QA",
+      "careerPageName": "Orbita Pagamentos",
+      "city": "Recife",
+      "state": "Pernambuco",
+      "workplaceType": "on-site",
+      "isRemoteWork": false,
+      "type": "vacancy_type_internship",
+      "jobUrl": "https://orbita.gupy.io/jobs/1001",
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "description": "<p>Atuar em <strong>testes manuais</strong>, elaborar casos de teste e registrar bugs no Jira.</p><p>Diferencial: Python e SQL.</p>"
+    },
+    {
+      "id": 1002,
+      "name": "Analista de QA Jr (Remoto)",
+      "careerPageName": "Nuvem Sul Tecnologia",
+      "city": "São Paulo",
+      "state": "São Paulo",
+      "workplaceType": "remote",
+      "isRemoteWork": true,
+      "type": "vacancy_type_effective",
+      "jobUrl": "https://nuvemsul.gupy.io/jobs/1002",
+      "publishedAt": "2026-11-09T09:30:00.000Z",
+      "descriptionPlainText": "Automação com Cypress e JavaScript, testes de API no Postman, pipelines de CI/CD com Jenkins, Docker. Inglês intermediário."
+    },
+    {
+      "id": 1003,
+      "name": "Desenvolvedor Frontend Pleno",
+      "careerPageName": "Casa Digital",
+      "city": "Recife",
+      "state": "Pernambuco",
+      "workplaceType": "hybrid",
+      "isRemoteWork": false,
+      "type": "vacancy_type_effective",
+      "jobUrl": "https://casadigital.gupy.io/jobs/1003",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "descriptionPlainText": "Experiência com React, TypeScript, HTML, CSS, JavaScript moderno e Git."
+    },
+    {
+      "id": null,
+      "name": "Vaga sem id deve ser ignorada"
+    }
+  ],
+  "pagination": {"offset": 0, "limit": 50, "total": 3}
+}
