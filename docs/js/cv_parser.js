@@ -35,14 +35,21 @@ export async function processarCurriculo(file, onProgress) {
     if (!skillsResponse.ok) throw new Error("Não achou o skills.json no frontend.");
     const skillsVocab = await skillsResponse.json();
 
-    // 4. Faz o match: procura as skills da peneira no texto do seu currículo
+
+// 4. Faz o match com a sua lista de skills
+    onProgress("Cruzando competências...");
     let mySkills = new Set();
-    for (const [skillName, aliases] of Object.entries(skillsVocab)) {
-        for (const alias of aliases) {
-            const regex = new RegExp(`\\b${normText(alias)}\\b`);
+
+    for (const item of skillsVocab) {
+        const skillName = item.name;
+        // Junta os aliases com o nome original (ex: busca tanto "BDD" quanto "cucumber")
+        const termosParaBuscar = [...item.aliases, skillName];
+
+        for (const termo of termosParaBuscar) {
+            const regex = new RegExp(`\\b${normText(termo)}\\b`);
             if (regex.test(normalizedPdf)) {
                 mySkills.add(skillName);
-                break; // Achou uma variação da skill, pula pra próxima
+                break; // Achou a skill, vai pra próxima
             }
         }
     }
@@ -52,4 +59,3 @@ export async function processarCurriculo(file, onProgress) {
     // 5. Salva o resultado no seu navegador
     localStorage.setItem('minhas_skills', JSON.stringify(finalSkills));
     return finalSkills;
-}
