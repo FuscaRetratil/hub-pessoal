@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T17:21:48Z",
+ "generated_at": "2026-11-13T01:40:47Z",
  "sources": {
   "gupy": {
    "ok": true,
@@ -7,6 +7,32 @@
   }
  },
  "jobs": [
+  {
+   "id": "12883430",
+   "source": "gupy",
+   "title": "Senior QA Automation Engineer - REMOTO",
+   "company": "Verity",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://verity.gupy.io/job/eyJqb2JJZCI6MTI4ODM0MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-12",
+   "reqs": [
+    "Testes automatizados",
+    "Testes de API",
+    "Casos de teste",
+    "Appium",
+    "Postman",
+    "BDD",
+    "Jira",
+    "Git",
+    "CI/CD",
+    "SQL",
+    "JavaScript",
+    "API REST"
+   ]
+  },
   {
    "id": "12879565",
    "source": "gupy",
@@ -27,6 +53,32 @@
     "SQL",
     "API REST",
     "Azure"
+   ]
+  },
+  {
+   "id": "12879597",
+   "source": "gupy",
+   "title": "Desenvolvedor FullStack .Net/React Sênior",
+   "company": "Fcamara",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Sênior",
+   "area": "Desenvolvimento",
+   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4Nzk1OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-12",
+   "reqs": [
+    "Jest",
+    "Scrum",
+    "Kanban",
+    "Git",
+    "GitHub",
+    "CI/CD",
+    "Docker",
+    "SQL",
+    "C#",
+    "React",
+    "API REST",
+    "AWS"
    ]
   },
   {
@@ -297,32 +349,6 @@
     "CI/CD",
     "Linux",
     "SQL"
-   ]
-  },
-  {
-   "id": "12857677",
-   "source": "gupy",
-   "title": "QA Test Automation | Mid (Remote)",
-   "company": "Compass UOL",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4NTc2NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-09",
-   "reqs": [
-    "Testes manuais",
-    "Testes automatizados",
-    "Testes de API",
-    "Casos de teste",
-    "Selenium",
-    "Robot Framework",
-    "Postman",
-    "Testes de performance",
-    "Scrum",
-    "Kanban",
-    "CI/CD",
-    "JavaScript"
    ]
   },
   {
@@ -1169,31 +1195,6 @@
    "url": "https://estagiocn.gupy.io/job/eyJqb2JJZCI6MTI3NDI5MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
    "published_at": "2026-10-17",
    "reqs": []
-  },
-  {
-   "id": "12732048",
-   "source": "gupy",
-   "title": "12732048 - Analista QA Júnior",
-   "company": "MTP Métodos e Tecnologia",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Júnior",
-   "area": "QA/Testes",
-   "url": "https://mtpbrasil.gupy.io/job/eyJqb2JJZCI6MTI3MzIwNDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-15",
-   "reqs": [
-    "Testes funcionais",
-    "Testes automatizados",
-    "Casos de teste",
-    "Selenium",
-    "Cypress",
-    "Playwright",
-    "BDD",
-    "Scrum",
-    "Kanban",
-    "Azure",
-    "Inglês"
-   ]
   },
   {
    "id": "12733027",
