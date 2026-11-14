@@ -71,6 +71,7 @@
       el.classList.remove('show');
     }, 2200);
   }
+  window.toast = toast;
 
   /* ---------- Estado e Persistência Local ---------- */
   var STORE_KEY = 'hub.radar.v1';
@@ -657,6 +658,22 @@
       skillsTimer = setTimeout(renderMain, 250);
     });
   }
+
+  // Permite que ferramentas externas (como o leitor de currículo PDF) atualizem as skills
+  window.updateSkillsFromCV = function (skillsArray) {
+    if (!Array.isArray(skillsArray) || !skillsArray.length) return;
+    state.skills = skillsArray.join(', ');
+    if (skillsInput) {
+      skillsInput.value = state.skills;
+      skillsInput.classList.remove('flash-highlight');
+      // Força reflow para reiniciar a animação se for chamado novamente
+      void skillsInput.offsetWidth;
+      skillsInput.classList.add('flash-highlight');
+      setTimeout(function () { skillsInput.classList.remove('flash-highlight'); }, 1200);
+    }
+    queueSave();
+    renderMain();
+  };
 
   /* ---------- Carga de Dados Reais ---------- */
   function safeUrl(url) {

@@ -27,6 +27,10 @@ export async function processarCurriculo(file, onProgress) {
         const textContent = await page.getTextContent();
         fullText += textContent.items.map(item => item.str).join(" ") + " ";
     }
+    
+    if (!fullText.trim()) {
+        throw new Error("O arquivo PDF não contém texto selecionável (pode ser uma imagem ou documento escaneado).");
+    }
     const normalizedPdf = normText(fullText);
 
     // 3. Puxa a peneira (skills.json) do seu próprio site
@@ -59,3 +63,4 @@ export async function processarCurriculo(file, onProgress) {
     // 5. Salva o resultado no seu navegador
     localStorage.setItem('minhas_skills', JSON.stringify(finalSkills));
     return finalSkills;
+}

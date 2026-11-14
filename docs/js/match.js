@@ -8,6 +8,16 @@
  * No futuro (Fase 7), basta implementar e plugar a função em ENGINES.ai.
  */
 
+function norm(str) {
+  return String(str || '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+window.norm = norm;
+
 var ALIASES = {
   'api rest': ['api', 'apis', 'rest', 'restful'],
   'ci/cd': ['ci', 'cd', 'jenkins', 'github actions', 'gitlab ci', 'pipeline', 'pipelines'],

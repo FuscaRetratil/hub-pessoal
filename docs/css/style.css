@@ -743,6 +743,44 @@ ul.list {
   transform: none;
 }
 
+.cv-box {
+  padding: 14px 16px;
+  background: var(--surface-2);
+  border: 1px dashed var(--line);
+  transition: border-color .2s, background-color .2s;
+}
+
+.cv-box.loading {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.cv-box.success {
+  border-color: var(--good);
+  border-style: solid;
+}
+
+.cv-box.error {
+  border-color: var(--warn);
+  border-style: solid;
+}
+
+.cv-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.flash-highlight {
+  animation: flashBg 1.2s ease-out;
+}
+
+@keyframes flashBg {
+  0% { background-color: var(--accent-soft); outline: 2px solid var(--accent); }
+  100% { background-color: var(--surface-2); outline: none; }
+}
+
 @media (max-width: 1060px) {
   .main { grid-template-columns: 1fr; }
 }
