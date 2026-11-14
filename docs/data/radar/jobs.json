@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T01:40:47Z",
+ "generated_at": "2026-11-14T01:17:47Z",
  "sources": {
   "gupy": {
    "ok": true,
@@ -7,6 +7,67 @@
   }
  },
  "jobs": [
+  {
+   "id": "12890076",
+   "source": "gupy",
+   "title": "QA Test Automation | Mid (Remote)",
+   "company": "Compass UOL",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Pleno",
+   "area": "QA/Testes",
+   "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4OTAwNzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-13",
+   "reqs": [
+    "Testes manuais",
+    "Testes automatizados",
+    "Testes de API",
+    "Casos de teste",
+    "Selenium",
+    "Robot Framework",
+    "Postman",
+    "Testes de performance",
+    "Scrum",
+    "Kanban",
+    "CI/CD",
+    "JavaScript"
+   ]
+  },
+  {
+   "id": "12868355",
+   "source": "gupy",
+   "title": "ANALISTA DE TESTES PL",
+   "company": "Globalweb",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Pleno",
+   "area": "QA/Testes",
+   "url": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI4NjgzNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-13",
+   "reqs": [
+    "Testes funcionais",
+    "Testes automatizados",
+    "Casos de teste",
+    "Cypress",
+    "Testes de performance",
+    "Scrum",
+    "Android",
+    "iOS"
+   ]
+  },
+  {
+   "id": "12889308",
+   "source": "gupy",
+   "title": "Tester de Software Embarcado - Automotivo",
+   "company": "EDAG Group",
+   "city": "São Bernardo do Campo",
+   "mode": "Presencial",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://edag.gupy.io/job/eyJqb2JJZCI6MTI4ODkzMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-13",
+   "reqs": []
+  },
   {
    "id": "12883430",
    "source": "gupy",
@@ -764,26 +825,6 @@
    ]
   },
   {
-   "id": "12798850",
-   "source": "gupy",
-   "title": "Pessoa Desenvolvedora Fullstack React/Kotlin/Java Especialista I (RGM e Demanda)",
-   "company": "Grupo Boticário",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "Desenvolvimento",
-   "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI3OTg4NTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-30",
-   "reqs": [
-    "Testes automatizados",
-    "GitHub",
-    "CI/CD",
-    "Java",
-    "React",
-    "API REST"
-   ]
-  },
-  {
    "id": "12744640",
    "source": "gupy",
    "title": "Estágio em Tecnologia da Informação - Infraestrutura",
@@ -1429,21 +1470,6 @@
    "reqs": []
   },
   {
-   "id": "12572682",
-   "source": "gupy",
-   "title": "Analista QA Sênior",
-   "company": "Montreal",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "QA/Testes",
-   "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI1NzI2ODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-30",
-   "reqs": [
-    "Testes manuais"
-   ]
-  },
-  {
    "id": "12634882",
    "source": "gupy",
    "title": "Analista de Testes Automatizados",
@@ -1701,25 +1727,6 @@
     "React",
     "API REST",
     "AWS"
-   ]
-  },
-  {
-   "id": "12482723",
-   "source": "gupy",
-   "title": "QA Funcional",
-   "company": "Stefanini Latam",
-   "city": "Santiago",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI0ODI3MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-15",
-   "reqs": [
-    "Postman",
-    "Jira",
-    "Scrum",
-    "CI/CD",
-    "SQL"
    ]
   },
   {
