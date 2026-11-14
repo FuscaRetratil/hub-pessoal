@@ -1,12 +1,151 @@
 {
+<<<<<<< HEAD
  "generated_at": "2026-11-12T04:24:53Z",
+=======
+ "generated_at": "2026-11-14T01:17:47Z",
+>>>>>>> 45f16f0bd24af03a827acdb4e28a9c0c52b9dd79
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 121
+   "count": 120
   }
  },
  "jobs": [
+  {
+   "id": "12890076",
+   "source": "gupy",
+   "title": "QA Test Automation | Mid (Remote)",
+   "company": "Compass UOL",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Pleno",
+   "area": "QA/Testes",
+   "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4OTAwNzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-13",
+   "reqs": [
+    "Testes manuais",
+    "Testes automatizados",
+    "Testes de API",
+    "Casos de teste",
+    "Selenium",
+    "Robot Framework",
+    "Postman",
+    "Testes de performance",
+    "Scrum",
+    "Kanban",
+    "CI/CD",
+    "JavaScript"
+   ]
+  },
+  {
+   "id": "12868355",
+   "source": "gupy",
+   "title": "ANALISTA DE TESTES PL",
+   "company": "Globalweb",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Pleno",
+   "area": "QA/Testes",
+   "url": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI4NjgzNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-13",
+   "reqs": [
+    "Testes funcionais",
+    "Testes automatizados",
+    "Casos de teste",
+    "Cypress",
+    "Testes de performance",
+    "Scrum",
+    "Android",
+    "iOS"
+   ]
+  },
+  {
+   "id": "12889308",
+   "source": "gupy",
+   "title": "Tester de Software Embarcado - Automotivo",
+   "company": "EDAG Group",
+   "city": "São Bernardo do Campo",
+   "mode": "Presencial",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://edag.gupy.io/job/eyJqb2JJZCI6MTI4ODkzMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-13",
+   "reqs": []
+  },
+  {
+   "id": "12883430",
+   "source": "gupy",
+   "title": "Senior QA Automation Engineer - REMOTO",
+   "company": "Verity",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://verity.gupy.io/job/eyJqb2JJZCI6MTI4ODM0MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-12",
+   "reqs": [
+    "Testes automatizados",
+    "Testes de API",
+    "Casos de teste",
+    "Appium",
+    "Postman",
+    "BDD",
+    "Jira",
+    "Git",
+    "CI/CD",
+    "SQL",
+    "JavaScript",
+    "API REST"
+   ]
+  },
+  {
+   "id": "12879565",
+   "source": "gupy",
+   "title": "QA Especialista (Quality Assurance) – Automação de Testes.",
+   "company": "Grupo JCA",
+   "city": "Barueri",
+   "mode": "Híbrido",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://embarquejca.gupy.io/job/eyJqb2JJZCI6MTI4Nzk1NjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-12",
+   "reqs": [
+    "Testes automatizados",
+    "Testes de API",
+    "Jira",
+    "Git",
+    "CI/CD",
+    "SQL",
+    "API REST",
+    "Azure"
+   ]
+  },
+  {
+   "id": "12879597",
+   "source": "gupy",
+   "title": "Desenvolvedor FullStack .Net/React Sênior",
+   "company": "Fcamara",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Sênior",
+   "area": "Desenvolvimento",
+   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4Nzk1OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-12",
+   "reqs": [
+    "Jest",
+    "Scrum",
+    "Kanban",
+    "Git",
+    "GitHub",
+    "CI/CD",
+    "Docker",
+    "SQL",
+    "C#",
+    "React",
+    "API REST",
+    "AWS"
+   ]
+  },
   {
    "id": "12871194",
    "source": "gupy",
@@ -278,6 +417,7 @@
    ]
   },
   {
+<<<<<<< HEAD
    "id": "12857677",
    "source": "gupy",
    "title": "QA Test Automation | Mid (Remote)",
@@ -304,6 +444,8 @@
    ]
   },
   {
+=======
+>>>>>>> 45f16f0bd24af03a827acdb4e28a9c0c52b9dd79
    "id": "12786382",
    "source": "gupy",
    "title": "Analista de QA",
@@ -716,26 +858,6 @@
    ]
   },
   {
-   "id": "12798850",
-   "source": "gupy",
-   "title": "Pessoa Desenvolvedora Fullstack React/Kotlin/Java Especialista I (RGM e Demanda)",
-   "company": "Grupo Boticário",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "Desenvolvimento",
-   "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI3OTg4NTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-30",
-   "reqs": [
-    "Testes automatizados",
-    "GitHub",
-    "CI/CD",
-    "Java",
-    "React",
-    "API REST"
-   ]
-  },
-  {
    "id": "12744640",
    "source": "gupy",
    "title": "Estágio em Tecnologia da Informação - Infraestrutura",
@@ -990,21 +1112,6 @@
    ]
   },
   {
-   "id": "12705341",
-   "source": "gupy",
-   "title": "Auxiliar Técnico de Testes de Software - Afirmativa para Pessoas com Deficiência (PcD)",
-   "company": "Instituto de Pesquisas ELDORADO",
-   "city": "Brasília",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://institutoeldorado.gupy.io/job/eyJqb2JJZCI6MTI3MDUzNDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-21",
-   "reqs": [
-    "Lógica de programação"
-   ]
-  },
-  {
    "id": "12754502",
    "source": "gupy",
    "title": "DESENVOLVEDOR FULLSTACK SR - JAVA/REACT",
@@ -1123,32 +1230,6 @@
    ]
   },
   {
-   "id": "12753048",
-   "source": "gupy",
-   "title": "Pessoa Desenvolvedora Frontend Sênior | Remoto",
-   "company": "Aurum",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "Desenvolvimento",
-   "url": "https://aurum.gupy.io/job/eyJqb2JJZCI6MTI3NTMwNDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-20",
-   "reqs": [
-    "Cypress",
-    "Playwright",
-    "CI/CD",
-    "SQL",
-    "JavaScript",
-    "TypeScript",
-    "Java",
-    "React",
-    "HTML",
-    "CSS",
-    "API REST",
-    "AWS"
-   ]
-  },
-  {
    "id": "12754715",
    "source": "gupy",
    "title": "Estágio em Implantação | Engenharia e Tecnologia",
@@ -1188,31 +1269,6 @@
    "url": "https://estagiocn.gupy.io/job/eyJqb2JJZCI6MTI3NDI5MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
    "published_at": "2026-10-17",
    "reqs": []
-  },
-  {
-   "id": "12732048",
-   "source": "gupy",
-   "title": "12732048 - Analista QA Júnior",
-   "company": "MTP Métodos e Tecnologia",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Júnior",
-   "area": "QA/Testes",
-   "url": "https://mtpbrasil.gupy.io/job/eyJqb2JJZCI6MTI3MzIwNDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-15",
-   "reqs": [
-    "Testes funcionais",
-    "Testes automatizados",
-    "Casos de teste",
-    "Selenium",
-    "Cypress",
-    "Playwright",
-    "BDD",
-    "Scrum",
-    "Kanban",
-    "Azure",
-    "Inglês"
-   ]
   },
   {
    "id": "12733027",
@@ -1445,21 +1501,6 @@
    "url": "https://gruposeb.gupy.io/job/eyJqb2JJZCI6MTI2NTYwNTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
    "published_at": "2026-10-01",
    "reqs": []
-  },
-  {
-   "id": "12572682",
-   "source": "gupy",
-   "title": "Analista QA Sênior",
-   "company": "Montreal",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "QA/Testes",
-   "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI1NzI2ODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-30",
-   "reqs": [
-    "Testes manuais"
-   ]
   },
   {
    "id": "12634882",
@@ -1719,25 +1760,6 @@
     "React",
     "API REST",
     "AWS"
-   ]
-  },
-  {
-   "id": "12482723",
-   "source": "gupy",
-   "title": "QA Funcional",
-   "company": "Stefanini Latam",
-   "city": "Santiago",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI0ODI3MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-15",
-   "reqs": [
-    "Postman",
-    "Jira",
-    "Scrum",
-    "CI/CD",
-    "SQL"
    ]
   },
   {
