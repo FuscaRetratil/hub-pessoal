@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
- "generated_at": "2026-11-12T04:24:53Z",
-=======
- "generated_at": "2026-11-14T01:17:47Z",
->>>>>>> 45f16f0bd24af03a827acdb4e28a9c0c52b9dd79
+ "generated_at": "2026-11-15T00:46:15Z",
  "sources": {
   "gupy": {
    "ok": true,
@@ -417,35 +413,6 @@
    ]
   },
   {
-<<<<<<< HEAD
-   "id": "12857677",
-   "source": "gupy",
-   "title": "QA Test Automation | Mid (Remote)",
-   "company": "Compass UOL",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4NTc2NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-09",
-   "reqs": [
-    "Testes manuais",
-    "Testes automatizados",
-    "Testes de API",
-    "Casos de teste",
-    "Selenium",
-    "Robot Framework",
-    "Postman",
-    "Testes de performance",
-    "Scrum",
-    "Kanban",
-    "CI/CD",
-    "JavaScript"
-   ]
-  },
-  {
-=======
->>>>>>> 45f16f0bd24af03a827acdb4e28a9c0c52b9dd79
    "id": "12786382",
    "source": "gupy",
    "title": "Analista de QA",
