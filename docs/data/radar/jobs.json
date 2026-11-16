@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T00:46:15Z",
+ "generated_at": "2026-11-16T00:46:20Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 120
+   "count": 118
   }
  },
  "jobs": [
@@ -1210,32 +1210,6 @@
    "reqs": [
     "Excel"
    ]
-  },
-  {
-   "id": "12742938",
-   "source": "gupy",
-   "title": "Estágio - Tecnologia Industrial (Belo Horizonte)",
-   "company": "Cimento Nacional",
-   "city": "Belo Horizonte",
-   "mode": "Híbrido",
-   "level": "Estágio",
-   "area": "TI (geral)",
-   "url": "https://estagiocn.gupy.io/job/eyJqb2JJZCI6MTI3NDI5MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-17",
-   "reqs": []
-  },
-  {
-   "id": "12742934",
-   "source": "gupy",
-   "title": "Estágio - Suporte de Tecnologia da Informação (Recife)",
-   "company": "Cimento Nacional",
-   "city": "Recife",
-   "mode": "Híbrido",
-   "level": "Estágio",
-   "area": "Suporte",
-   "url": "https://estagiocn.gupy.io/job/eyJqb2JJZCI6MTI3NDI5MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-17",
-   "reqs": []
   },
   {
    "id": "12733027",
