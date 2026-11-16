@@ -1,36 +1,34 @@
 {
- "generated_at": "2026-11-16T00:46:20Z",
+ "generated_at": "2026-11-16T19:15:59Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 118
+   "count": 112
   }
  },
  "jobs": [
   {
-   "id": "12890076",
+   "id": "12862540",
    "source": "gupy",
-   "title": "QA Test Automation | Mid (Remote)",
-   "company": "Compass UOL",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4OTAwNzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-13",
+   "title": "Desenvolvedor(a) Full Stack React e TypeScript",
+   "company": "Grupo Mater",
+   "city": "São Paulo",
+   "mode": "Presencial",
+   "level": "Não informado",
+   "area": "Desenvolvimento",
+   "url": "https://grupomater.gupy.io/job/eyJqb2JJZCI6MTI4NjI1NDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-16",
    "reqs": [
-    "Testes manuais",
-    "Testes automatizados",
-    "Testes de API",
-    "Casos de teste",
-    "Selenium",
-    "Robot Framework",
-    "Postman",
-    "Testes de performance",
-    "Scrum",
-    "Kanban",
+    "Git",
     "CI/CD",
-    "JavaScript"
+    "Docker",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "React",
+    "HTML",
+    "CSS",
+    "API REST"
    ]
   },
   {
@@ -803,28 +801,6 @@
    ]
   },
   {
-   "id": "12809382",
-   "source": "gupy",
-   "title": "Analista QA Funcional",
-   "company": "Stefanini Latam",
-   "city": "San Salvador",
-   "mode": "Presencial",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4MDkzODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-30",
-   "reqs": [
-    "Jira",
-    "Scrum",
-    "Kanban",
-    "SQL",
-    "Python",
-    "Java",
-    "C#",
-    "Inglês"
-   ]
-  },
-  {
    "id": "12744640",
    "source": "gupy",
    "title": "Estágio em Tecnologia da Informação - Infraestrutura",
@@ -1212,23 +1188,6 @@
    ]
   },
   {
-   "id": "12733027",
-   "source": "gupy",
-   "title": "Estágio em Testes de Software",
-   "company": "SiDi",
-   "city": "Campinas",
-   "mode": "Presencial",
-   "level": "Estágio",
-   "area": "QA/Testes",
-   "url": "https://sidi.gupy.io/job/eyJqb2JJZCI6MTI3MzMwMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-15",
-   "reqs": [
-    "Testes funcionais",
-    "Testes automatizados",
-    "Inglês"
-   ]
-  },
-  {
    "id": "12719940",
    "source": "gupy",
    "title": "🟠Analista de Testes | PRESENCIAL-CAMPINAS/SP",
@@ -1265,30 +1224,6 @@
     "Java",
     "C#",
     "API REST"
-   ]
-  },
-  {
-   "id": "12692529",
-   "source": "gupy",
-   "title": "ANALISTA DE QUALIDADE DE SOFTWARE (QA) PLENO",
-   "company": "Quality Digital",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI2OTI1MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-08",
-   "reqs": [
-    "Testes manuais",
-    "Testes funcionais",
-    "Testes automatizados",
-    "Testes de API",
-    "Casos de teste",
-    "Postman",
-    "Testes de performance",
-    "SQL",
-    "API REST",
-    "Inglês"
    ]
   },
   {
@@ -1376,32 +1311,6 @@
     "Git",
     "Linux",
     "Python"
-   ]
-  },
-  {
-   "id": "12545476",
-   "source": "gupy",
-   "title": "Estagiário em QA",
-   "company": "Instituto de Pesquisas ELDORADO",
-   "city": "Campinas",
-   "mode": "Híbrido",
-   "level": "Estágio",
-   "area": "QA/Testes",
-   "url": "https://institutoeldorado.gupy.io/job/eyJqb2JJZCI6MTI1NDU0NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-02",
-   "reqs": [
-    "Testes manuais",
-    "Testes automatizados",
-    "Testes de regressão",
-    "Selenium",
-    "Cypress",
-    "Playwright",
-    "Jira",
-    "Scrum",
-    "Kanban",
-    "Git",
-    "JavaScript",
-    "HTML"
    ]
   },
   {
@@ -1628,27 +1537,6 @@
     "SQL",
     "Java",
     "Angular"
-   ]
-  },
-  {
-   "id": "12559016",
-   "source": "gupy",
-   "title": "Desenvolvedor de Software Pleno (FrontEnd)",
-   "company": "Montreal",
-   "city": "Goiânia",
-   "mode": "Híbrido",
-   "level": "Pleno",
-   "area": "Desenvolvimento",
-   "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI1NTkwMTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-22",
-   "reqs": [
-    "Cypress",
-    "Playwright",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "CSS",
-    "API REST"
    ]
   },
   {
@@ -1901,24 +1789,6 @@
     "CSS",
     "API REST",
     "Azure"
-   ]
-  },
-  {
-   "id": "11782572",
-   "source": "gupy",
-   "title": "Analista Qualidade Sr (ERP SAP | QA testes)",
-   "company": "Rede Américas",
-   "city": "São Paulo",
-   "mode": "Híbrido",
-   "level": "Sênior",
-   "area": "QA/Testes",
-   "url": "https://redeamericas.gupy.io/job/eyJqb2JJZCI6MTE3ODI1NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-07-24",
-   "reqs": [
-    "Casos de teste",
-    "Azure",
-    "Power BI",
-    "Excel"
    ]
   },
   {
