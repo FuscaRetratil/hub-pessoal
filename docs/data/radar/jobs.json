@@ -1,12 +1,48 @@
 {
- "generated_at": "2026-11-16T19:15:59Z",
+ "generated_at": "2026-11-17T03:24:17Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 112
+   "count": 111
   }
  },
  "jobs": [
+  {
+   "id": "12898835",
+   "source": "gupy",
+   "title": "ANALISTA DE QUALIDADE (QA) BILINGUE",
+   "company": "Grupo Elo",
+   "city": "São Paulo",
+   "mode": "Presencial",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://grupoelo.gupy.io/job/eyJqb2JJZCI6MTI4OTg4MzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-16",
+   "reqs": [
+    "Excel",
+    "Inglês"
+   ]
+  },
+  {
+   "id": "12882360",
+   "source": "gupy",
+   "title": "12882360| Analista de Testes PL",
+   "company": "Almaviva Solutions",
+   "city": "São Paulo",
+   "mode": "Híbrido",
+   "level": "Pleno",
+   "area": "QA/Testes",
+   "url": "https://almavivasolutions.gupy.io/job/eyJqb2JJZCI6MTI4ODIzNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-16",
+   "reqs": [
+    "Testes funcionais",
+    "Testes automatizados",
+    "Testes de regressão",
+    "Scrum",
+    "Kanban",
+    "Inglês"
+   ]
+  },
   {
    "id": "12862540",
    "source": "gupy",
@@ -32,25 +68,25 @@
    ]
   },
   {
-   "id": "12868355",
+   "id": "12880469",
    "source": "gupy",
-   "title": "ANALISTA DE TESTES PL",
-   "company": "Globalweb",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI4NjgzNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-13",
+   "title": "Estágio em Tecnologia e Inovação - Vaga Afirmativa para pessoas Pretas/Pardas e ou Indígenas",
+   "company": "BAT Brasil",
+   "city": "Rio de Janeiro",
+   "mode": "Híbrido",
+   "level": "Estágio",
+   "area": "TI (geral)",
+   "url": "https://bat.gupy.io/job/eyJqb2JJZCI6MTI4ODA0NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-16",
    "reqs": [
-    "Testes funcionais",
-    "Testes automatizados",
-    "Casos de teste",
-    "Cypress",
-    "Testes de performance",
-    "Scrum",
-    "Android",
-    "iOS"
+    "SQL",
+    "Python",
+    "JavaScript",
+    "Java",
+    "C#",
+    "Power BI",
+    "Excel",
+    "Inglês"
    ]
   },
   {
@@ -1055,26 +1091,6 @@
    ]
   },
   {
-   "id": "12754502",
-   "source": "gupy",
-   "title": "DESENVOLVEDOR FULLSTACK SR - JAVA/REACT",
-   "company": "Stefanini Group",
-   "city": "Brasília",
-   "mode": "Híbrido",
-   "level": "Sênior",
-   "area": "Desenvolvimento",
-   "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI3NTQ1MDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-21",
-   "reqs": [
-    "JavaScript",
-    "TypeScript",
-    "Java",
-    "C#",
-    "React",
-    "API REST"
-   ]
-  },
-  {
    "id": "12759875",
    "source": "gupy",
    "title": "Estágio em Dados e Tecnologia | São Paulo - SP",
@@ -1540,19 +1556,6 @@
    ]
   },
   {
-   "id": "12519769",
-   "source": "gupy",
-   "title": "QA Analista Functional",
-   "company": "Stefanini Latam",
-   "city": "Santiago",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI1MTk3NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-21",
-   "reqs": []
-  },
-  {
    "id": "12545008",
    "source": "gupy",
    "title": "Analista de Produto: gestão de Testes de Durabilidade",
@@ -1564,32 +1567,6 @@
    "url": "https://edag.gupy.io/job/eyJqb2JJZCI6MTI1NDUwMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
    "published_at": "2026-09-21",
    "reqs": []
-  },
-  {
-   "id": "12513208",
-   "source": "gupy",
-   "title": "QA Sênior (Especialista em Automação e IA) - 4YouSee",
-   "company": "Eletromidia",
-   "city": "Belo Horizonte",
-   "mode": "Híbrido",
-   "level": "Sênior",
-   "area": "QA/Testes",
-   "url": "https://eletromidia.gupy.io/job/eyJqb2JJZCI6MTI1MTMyMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-17",
-   "reqs": [
-    "Testes manuais",
-    "Testes automatizados",
-    "Selenium",
-    "Cypress",
-    "Playwright",
-    "Pytest",
-    "CI/CD",
-    "SQL",
-    "Python",
-    "React",
-    "API REST",
-    "AWS"
-   ]
   },
   {
    "id": "12477783",
