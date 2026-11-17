@@ -1,12 +1,56 @@
 {
- "generated_at": "2026-11-17T03:24:17Z",
+ "generated_at": "2026-11-17T18:08:51Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 111
+   "count": 110
   }
  },
  "jobs": [
+  {
+   "id": "12897595",
+   "source": "gupy",
+   "title": "QA Funcional",
+   "company": "Stefanini Latam",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4OTc1OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-17",
+   "reqs": [
+    "Postman",
+    "Jira",
+    "Scrum",
+    "Kanban",
+    "CI/CD",
+    "API REST",
+    "Android",
+    "iOS"
+   ]
+  },
+  {
+   "id": "12771752",
+   "source": "gupy",
+   "title": "Estágio em Tecnologia & Inovação - Vaga Afirmativa para pessoas Pretas/Pardas e/ou Indígenas",
+   "company": "BAT Brasil",
+   "city": "Rio de Janeiro",
+   "mode": "Híbrido",
+   "level": "Estágio",
+   "area": "TI (geral)",
+   "url": "https://bat.gupy.io/job/eyJqb2JJZCI6MTI3NzE3NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-17",
+   "reqs": [
+    "SQL",
+    "Python",
+    "JavaScript",
+    "Java",
+    "C#",
+    "Power BI",
+    "Excel",
+    "Inglês"
+   ]
+  },
   {
    "id": "12898835",
    "source": "gupy",
@@ -70,7 +114,7 @@
   {
    "id": "12880469",
    "source": "gupy",
-   "title": "Estágio em Tecnologia e Inovação - Vaga Afirmativa para pessoas Pretas/Pardas e ou Indígenas",
+   "title": "Estágio em Tecnologia & Inovação - Vaga Afirmativa para pessoas Pretas/Pardas e ou Indígenas",
    "company": "BAT Brasil",
    "city": "Rio de Janeiro",
    "mode": "Híbrido",
@@ -287,38 +331,6 @@
    ]
   },
   {
-   "id": "12861194",
-   "source": "gupy",
-   "title": "QA Automation",
-   "company": "Stefanini Latam",
-   "city": "Bogotá, D.c.",
-   "mode": "Presencial",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4NjExOTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-10",
-   "reqs": [
-    "CI/CD",
-    "API REST"
-   ]
-  },
-  {
-   "id": "12861023",
-   "source": "gupy",
-   "title": "QA Automation",
-   "company": "Stefanini Latam",
-   "city": "Bogotá, D.c.",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4NjEwMjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-10",
-   "reqs": [
-    "CI/CD",
-    "API REST"
-   ]
-  },
-  {
    "id": "12860926",
    "source": "gupy",
    "title": "QA Analyst | Mid (Remote)",
@@ -462,29 +474,6 @@
     "Testes automatizados",
     "Casos de teste",
     "Inglês"
-   ]
-  },
-  {
-   "id": "12854563",
-   "source": "gupy",
-   "title": "QA de Automação - Sênior",
-   "company": "Fcamara",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "QA/Testes",
-   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NTQ1NjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-09",
-   "reqs": [
-    "Testes automatizados",
-    "Testes de API",
-    "Playwright",
-    "Git",
-    "GitHub",
-    "CI/CD",
-    "C#",
-    "API REST",
-    "Azure"
    ]
   },
   {
@@ -1556,19 +1545,6 @@
    ]
   },
   {
-   "id": "12545008",
-   "source": "gupy",
-   "title": "Analista de Produto: gestão de Testes de Durabilidade",
-   "company": "EDAG Group",
-   "city": "São Bernardo do Campo",
-   "mode": "Presencial",
-   "level": "Não informado",
-   "area": "Outras",
-   "url": "https://edag.gupy.io/job/eyJqb2JJZCI6MTI1NDUwMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-21",
-   "reqs": []
-  },
-  {
    "id": "12477783",
    "source": "gupy",
    "title": "Hitss | QA (Automação)",
@@ -1742,6 +1718,19 @@
     "Excel",
     "Inglês"
    ]
+  },
+  {
+   "id": "12149570",
+   "source": "gupy",
+   "title": "[TESTE] - Analista de Suporte TESTE",
+   "company": "TESTES BONDY",
+   "city": "São Paulo",
+   "mode": "Presencial",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://bondy-demo.gupy.io/job/eyJqb2JJZCI6MTIxNDk1NzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-08-17",
+   "reqs": []
   },
   {
    "id": "12076753",
