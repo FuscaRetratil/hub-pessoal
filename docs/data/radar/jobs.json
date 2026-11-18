@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:08:51Z",
+ "generated_at": "2026-11-18T02:43:33Z",
  "sources": {
   "gupy": {
    "ok": true,
@@ -28,6 +28,19 @@
     "Android",
     "iOS"
    ]
+  },
+  {
+   "id": "12894485",
+   "source": "gupy",
+   "title": "Estagiária (o) Superior - Tecnologia da Informação",
+   "company": "Geração D",
+   "city": "São Paulo",
+   "mode": "Híbrido",
+   "level": "Estágio",
+   "area": "TI (geral)",
+   "url": "https://dexcogeracaod.gupy.io/job/eyJqb2JJZCI6MTI4OTQ0ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-17",
+   "reqs": []
   },
   {
    "id": "12771752",
@@ -308,22 +321,6 @@
    "level": "Não informado",
    "area": "QA/Testes",
    "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4NjE0ODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-10",
-   "reqs": [
-    "CI/CD",
-    "API REST"
-   ]
-  },
-  {
-   "id": "12861482",
-   "source": "gupy",
-   "title": "QA Automation",
-   "company": "Stefanini Latam",
-   "city": "Bogotá, D.c.",
-   "mode": "Presencial",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4NjE0ODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
    "published_at": "2026-11-10",
    "reqs": [
     "CI/CD",
