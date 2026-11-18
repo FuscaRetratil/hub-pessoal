@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:43:33Z",
+ "generated_at": "2026-11-18T17:46:46Z",
  "sources": {
   "gupy": {
    "ok": true,
@@ -7,6 +7,96 @@
   }
  },
  "jobs": [
+  {
+   "id": "12912379",
+   "source": "gupy",
+   "title": "Engenheiro de Qualidade (QA)- Sênior",
+   "company": "Fcamara",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MTIzNzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-18",
+   "reqs": [
+    "Testes funcionais",
+    "Testes automatizados",
+    "Testes de API",
+    "Robot Framework",
+    "Postman",
+    "Testes de performance",
+    "Git",
+    "CI/CD",
+    "SQL",
+    "Python",
+    "JavaScript",
+    "Java"
+   ]
+  },
+  {
+   "id": "12908612",
+   "source": "gupy",
+   "title": "QA Analyst | Senior (Presencial -Porto Alegre-RS)",
+   "company": "Compass UOL",
+   "city": "Porto Alegre",
+   "mode": "Presencial",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI5MDg2MTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-18",
+   "reqs": [
+    "Testes funcionais",
+    "Testes automatizados",
+    "API REST",
+    "AWS"
+   ]
+  },
+  {
+   "id": "12907495",
+   "source": "gupy",
+   "title": "Analista de QA PL",
+   "company": "Grupo SysMap",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Pleno",
+   "area": "QA/Testes",
+   "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MDc0OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-18",
+   "reqs": [
+    "Testes manuais",
+    "Testes funcionais",
+    "Testes automatizados",
+    "Playwright",
+    "Postman",
+    "Jira",
+    "Kanban",
+    "SQL",
+    "API REST"
+   ]
+  },
+  {
+   "id": "12846775",
+   "source": "gupy",
+   "title": "ANALISTA DE TESTE SR",
+   "company": "Globalweb",
+   "city": "Goiânia",
+   "mode": "Presencial",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI4NDY3NzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-18",
+   "reqs": [
+    "Testes funcionais",
+    "Testes automatizados",
+    "Casos de teste",
+    "Selenium",
+    "Postman",
+    "JUnit",
+    "BDD",
+    "Jira",
+    "Scrum"
+   ]
+  },
   {
    "id": "12897595",
    "source": "gupy",
@@ -295,23 +385,6 @@
    ]
   },
   {
-   "id": "12864155",
-   "source": "gupy",
-   "title": "Analista QA Funcional Jr.",
-   "company": "Stefanini Latam",
-   "city": "San Salvador",
-   "mode": "Híbrido",
-   "level": "Júnior",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4NjQxNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-10",
-   "reqs": [
-    "Scrum",
-    "SQL",
-    "Java"
-   ]
-  },
-  {
    "id": "12861486",
    "source": "gupy",
    "title": "QA Automation",
@@ -351,25 +424,6 @@
     "JavaScript",
     "C#",
     "API REST"
-   ]
-  },
-  {
-   "id": "12869366",
-   "source": "gupy",
-   "title": "ANALISTA TESTES PL",
-   "company": "Stefanini Group",
-   "city": "Taboão da Serra",
-   "mode": "Híbrido",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI4NjkzNjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-10",
-   "reqs": [
-    "Testes funcionais",
-    "Testes de regressão",
-    "Scrum",
-    "Kanban",
-    "SQL"
    ]
   },
   {
@@ -525,32 +579,6 @@
    "url": "https://professoreseadfacens.gupy.io/job/eyJqb2JJZCI6MTI4NDg1MTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
    "published_at": "2026-11-06",
    "reqs": []
-  },
-  {
-   "id": "12850422",
-   "source": "gupy",
-   "title": "DESENVOLVEDOR FRONT-END REACT",
-   "company": "Fcamara",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Não informado",
-   "area": "Desenvolvimento",
-   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NTA0MjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-06",
-   "reqs": [
-    "Testes automatizados",
-    "Cypress",
-    "Jest",
-    "Jira",
-    "Scrum",
-    "Kanban",
-    "Git",
-    "GitHub",
-    "CI/CD",
-    "JavaScript",
-    "TypeScript",
-    "Node.js"
-   ]
   },
   {
    "id": "12850206",
@@ -1142,21 +1170,6 @@
    ]
   },
   {
-   "id": "12748725",
-   "source": "gupy",
-   "title": "QA Funcional (entornos SAP)",
-   "company": "Stefanini Latam",
-   "city": "Bogotá, D.c.",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI3NDg3MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-20",
-   "reqs": [
-    "Jira"
-   ]
-  },
-  {
    "id": "12756219",
    "source": "gupy",
    "title": "Desenvolvedor Especialista Frontend React Native",
@@ -1312,7 +1325,8 @@
     "Casos de teste",
     "Git",
     "Linux",
-    "Python"
+    "Python",
+    "Inglês"
    ]
   },
   {
