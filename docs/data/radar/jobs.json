@@ -1,12 +1,67 @@
 {
- "generated_at": "2026-11-19T02:16:22Z",
+ "generated_at": "2026-11-19T17:58:06Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 111
+   "count": 114
   }
  },
  "jobs": [
+  {
+   "id": "12920666",
+   "source": "gupy",
+   "title": "Analista de Testes e QA Júnior",
+   "company": "Evoluservices",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Júnior",
+   "area": "QA/Testes",
+   "url": "https://evoluservices.gupy.io/job/eyJqb2JJZCI6MTI5MjA2NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-19",
+   "reqs": [
+    "Testes manuais",
+    "Testes automatizados",
+    "BDD",
+    "Java",
+    "API REST",
+    "Inglês"
+   ]
+  },
+  {
+   "id": "12920492",
+   "source": "gupy",
+   "title": "Analista de Testes e QA Júnior - Exclusiva PCD",
+   "company": "Evoluservices",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Júnior",
+   "area": "QA/Testes",
+   "url": "https://evoluservices.gupy.io/job/eyJqb2JJZCI6MTI5MjA0OTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-19",
+   "reqs": [
+    "Testes manuais",
+    "Testes automatizados",
+    "BDD",
+    "Java",
+    "API REST",
+    "Inglês"
+   ]
+  },
+  {
+   "id": "12922252",
+   "source": "gupy",
+   "title": "JARAGUÁ DO SUL E GUARAMIRIM - BANCO DE TALENTOS PROGRAMA DE ESTÁGIO 2027.1 [ENGENHARIA E TECNOLOGIA DA INFORMAÇÃO]",
+   "company": "WEG",
+   "city": "Jaraguá do Sul",
+   "mode": "Presencial",
+   "level": "Estágio",
+   "area": "TI (geral)",
+   "url": "https://wegestagio.gupy.io/job/eyJqb2JJZCI6MTI5MjIyNTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-19",
+   "reqs": [
+    "Inglês"
+   ]
+  },
   {
    "id": "12908382",
    "source": "gupy",
