@@ -1,12 +1,42 @@
 {
- "generated_at": "2026-11-18T17:46:46Z",
+ "generated_at": "2026-11-19T02:16:22Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 110
+   "count": 111
   }
  },
  "jobs": [
+  {
+   "id": "12908382",
+   "source": "gupy",
+   "title": "Especialista em Produto e Qualidade com IA (PO + QA)",
+   "company": "Grupo SysMap",
+   "city": "São Paulo",
+   "mode": "Híbrido",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MDgzODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-18",
+   "reqs": [
+    "BDD"
+   ]
+  },
+  {
+   "id": "12914934",
+   "source": "gupy",
+   "title": "QA Tester Functional",
+   "company": "Stefanini Latam",
+   "city": "Bogotá, D.c.",
+   "mode": "Presencial",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MTQ5MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-18",
+   "reqs": [
+    "SQL"
+   ]
+  },
   {
    "id": "12912379",
    "source": "gupy",
@@ -397,32 +427,6 @@
    "published_at": "2026-11-10",
    "reqs": [
     "CI/CD",
-    "API REST"
-   ]
-  },
-  {
-   "id": "12860926",
-   "source": "gupy",
-   "title": "QA Analyst | Mid (Remote)",
-   "company": "Compass UOL",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI4NjA5MjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-10",
-   "reqs": [
-    "Testes manuais",
-    "Testes funcionais",
-    "Testes automatizados",
-    "Testes de API",
-    "Selenium",
-    "Robot Framework",
-    "Postman",
-    "Testes de performance",
-    "CI/CD",
-    "JavaScript",
-    "C#",
     "API REST"
    ]
   },
