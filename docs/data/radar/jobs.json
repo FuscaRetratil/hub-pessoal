@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-11-20T02:00:43Z",
+ "generated_at": "2026-11-20T17:32:29Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 116
+   "count": 117
   }
  },
  "jobs": [
+  {
+   "id": "12921707",
+   "source": "gupy",
+   "title": "QA Tester Functional",
+   "company": "Stefanini Latam",
+   "city": "Santiago",
+   "mode": "Híbrido",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MjE3MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-20",
+   "reqs": [
+    "Postman",
+    "Jira",
+    "CI/CD",
+    "SQL"
+   ]
+  },
   {
    "id": "12917097",
    "source": "gupy",
