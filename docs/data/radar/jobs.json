@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-11-19T17:58:06Z",
+ "generated_at": "2026-11-20T02:00:43Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 114
+   "count": 116
   }
  },
  "jobs": [
+  {
+   "id": "12917097",
+   "source": "gupy",
+   "title": "QA Tester Functional",
+   "company": "Stefanini Latam",
+   "city": "Bogotá, D.c.",
+   "mode": "Híbrido",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MTcwOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-19",
+   "reqs": [
+    "Jira",
+    "Scrum",
+    "Kanban",
+    "SQL"
+   ]
+  },
   {
    "id": "12920666",
    "source": "gupy",
@@ -45,6 +63,47 @@
     "Java",
     "API REST",
     "Inglês"
+   ]
+  },
+  {
+   "id": "12892586",
+   "source": "gupy",
+   "title": "21790-Analista de Produção de TI (Testes e Homologação)",
+   "company": "Hitss Brasil",
+   "city": "Osasco",
+   "mode": "Presencial",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI4OTI1ODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-19",
+   "reqs": [
+    "Testes funcionais",
+    "Testes automatizados",
+    "Linux"
+   ]
+  },
+  {
+   "id": "12882894",
+   "source": "gupy",
+   "title": "Pessoa Desenvolvedora Mobile React Native Especialista I (App do Consumidor) - Diretoria de E-comm & Marketplace",
+   "company": "Grupo Boticário",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Sênior",
+   "area": "Desenvolvimento",
+   "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI4ODI4OTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-19",
+   "reqs": [
+    "Jest",
+    "Git",
+    "GitHub",
+    "CI/CD",
+    "TypeScript",
+    "React",
+    "API REST",
+    "Android",
+    "iOS",
+    "Figma"
    ]
   },
   {
@@ -406,30 +465,6 @@
     "React",
     "API REST",
     "AWS"
-   ]
-  },
-  {
-   "id": "12871194",
-   "source": "gupy",
-   "title": "Analista de QA Pleno",
-   "company": "Fcamara",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI4NzExOTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-11",
-   "reqs": [
-    "Testes de API",
-    "BDD",
-    "Testes de performance",
-    "Scrum",
-    "Kanban",
-    "Git",
-    "CI/CD",
-    "SQL",
-    "Java",
-    "API REST"
    ]
   },
   {
