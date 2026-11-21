@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T17:32:29Z",
+ "generated_at": "2026-11-21T01:58:02Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 117
+   "count": 116
   }
  },
  "jobs": [
@@ -856,31 +856,6 @@
     "Casos de teste",
     "Jira",
     "API REST"
-   ]
-  },
-  {
-   "id": "12825175",
-   "source": "gupy",
-   "title": "Analista de Qualidade (QA/Tester) Júnior",
-   "company": "Ativa GR",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Júnior",
-   "area": "QA/Testes",
-   "url": "https://ativagr.gupy.io/job/eyJqb2JJZCI6MTI4MjUxNzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-03",
-   "reqs": [
-    "Testes manuais",
-    "Testes funcionais",
-    "Testes de API",
-    "Casos de teste",
-    "Postman",
-    "Jira",
-    "Scrum",
-    "Kanban",
-    "SQL",
-    "API REST",
-    "Azure"
    ]
   },
   {
