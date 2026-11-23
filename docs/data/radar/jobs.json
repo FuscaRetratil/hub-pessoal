@@ -1,12 +1,117 @@
 {
- "generated_at": "2026-11-21T01:58:02Z",
+ "generated_at": "2026-11-23T20:52:22Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 116
+   "count": 117
   }
  },
  "jobs": [
+  {
+   "id": "12927895",
+   "source": "gupy",
+   "title": "Analista de Qualidade (QA) - Sênior",
+   "company": "Fcamara",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Sênior",
+   "area": "QA/Testes",
+   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5Mjc4OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-23",
+   "reqs": [
+    "Testes automatizados",
+    "Testes de API",
+    "Selenium",
+    "Cypress",
+    "Playwright",
+    "Appium",
+    "Postman",
+    "BDD",
+    "Testes de performance",
+    "Scrum",
+    "Kanban",
+    "Git"
+   ]
+  },
+  {
+   "id": "12927333",
+   "source": "gupy",
+   "title": "Analista de QA JR (Curitiba-PR)",
+   "company": "AGROTIS",
+   "city": "Curitiba",
+   "mode": "Presencial",
+   "level": "Júnior",
+   "area": "QA/Testes",
+   "url": "https://agrotis.gupy.io/job/eyJqb2JJZCI6MTI5MjczMzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-23",
+   "reqs": [
+    "Testes manuais",
+    "Testes automatizados",
+    "Selenium",
+    "JUnit",
+    "Scrum",
+    "Kanban",
+    "CI/CD"
+   ]
+  },
+  {
+   "id": "12927210",
+   "source": "gupy",
+   "title": "Analista de Automação de Testes Pleno",
+   "company": "Stefanini Group",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Pleno",
+   "area": "QA/Testes",
+   "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI5MjcyMTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-23",
+   "reqs": [
+    "Testes automatizados",
+    "Selenium",
+    "Appium",
+    "BDD",
+    "Jira",
+    "Java"
+   ]
+  },
+  {
+   "id": "12927144",
+   "source": "gupy",
+   "title": "Desenvolvedor Full Stack Java/React - Sênior",
+   "company": "Fcamara",
+   "city": "Remoto",
+   "mode": "Remoto",
+   "level": "Sênior",
+   "area": "Desenvolvimento",
+   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MjcxNDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-23",
+   "reqs": [
+    "Testes automatizados",
+    "Docker",
+    "Java",
+    "React",
+    "API REST",
+    "AWS",
+    "Azure"
+   ]
+  },
+  {
+   "id": "12929949",
+   "source": "gupy",
+   "title": "Estágio em Tecnologia da Informação (TI) | POA",
+   "company": "Silveiro Advogados",
+   "city": "Porto Alegre",
+   "mode": "Presencial",
+   "level": "Estágio",
+   "area": "TI (geral)",
+   "url": "https://silveiroadvogados.gupy.io/job/eyJqb2JJZCI6MTI5Mjk5NDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-23",
+   "reqs": [
+    "Kanban",
+    "Android",
+    "iOS"
+   ]
+  },
   {
    "id": "12921707",
    "source": "gupy",
@@ -41,26 +146,6 @@
     "Scrum",
     "Kanban",
     "SQL"
-   ]
-  },
-  {
-   "id": "12920666",
-   "source": "gupy",
-   "title": "Analista de Testes e QA Júnior",
-   "company": "Evoluservices",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Júnior",
-   "area": "QA/Testes",
-   "url": "https://evoluservices.gupy.io/job/eyJqb2JJZCI6MTI5MjA2NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-19",
-   "reqs": [
-    "Testes manuais",
-    "Testes automatizados",
-    "BDD",
-    "Java",
-    "API REST",
-    "Inglês"
    ]
   },
   {
@@ -167,32 +252,6 @@
    "published_at": "2026-11-18",
    "reqs": [
     "SQL"
-   ]
-  },
-  {
-   "id": "12912379",
-   "source": "gupy",
-   "title": "Engenheiro de Qualidade (QA)- Sênior",
-   "company": "Fcamara",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "QA/Testes",
-   "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI5MTIzNzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-18",
-   "reqs": [
-    "Testes funcionais",
-    "Testes automatizados",
-    "Testes de API",
-    "Robot Framework",
-    "Postman",
-    "Testes de performance",
-    "Git",
-    "CI/CD",
-    "SQL",
-    "Python",
-    "JavaScript",
-    "Java"
    ]
   },
   {
@@ -988,24 +1047,6 @@
    ]
   },
   {
-   "id": "12803677",
-   "source": "gupy",
-   "title": "ANALISTA DE TESTES PL",
-   "company": "Globalweb",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI4MDM2NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-29",
-   "reqs": [
-    "Testes automatizados",
-    "Casos de teste",
-    "CI/CD",
-    "API REST"
-   ]
-  },
-  {
    "id": "12797958",
    "source": "gupy",
    "title": "QA Automação Especialista - Segmento Varejista",
@@ -1049,26 +1090,6 @@
     "JavaScript",
     "TypeScript",
     "Java",
-    "API REST"
-   ]
-  },
-  {
-   "id": "12776854",
-   "source": "gupy",
-   "title": "Ingeniero/a QA – Resiliencia y Mensajería SWIFT",
-   "company": "Stefanini Latam",
-   "city": "Santiago",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI3NzY4NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-26",
-   "reqs": [
-    "Postman",
-    "Jira",
-    "Scrum",
-    "Kanban",
-    "SQL",
     "API REST"
    ]
   },
