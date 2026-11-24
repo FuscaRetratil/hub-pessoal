@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T20:52:22Z",
+ "generated_at": "2026-11-24T05:08:34Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 117
+   "count": 116
   }
  },
  "jobs": [
@@ -1794,32 +1794,6 @@
     "React",
     "API REST",
     "AWS"
-   ]
-  },
-  {
-   "id": "12184010",
-   "source": "gupy",
-   "title": "Desenvolvedor React",
-   "company": "Neohype Digital",
-   "city": "Curitiba",
-   "mode": "Híbrido",
-   "level": "Não informado",
-   "area": "Desenvolvimento",
-   "url": "https://neohypedigital.gupy.io/job/eyJqb2JJZCI6MTIxODQwMTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-08-19",
-   "reqs": [
-    "Git",
-    "CI/CD",
-    "Docker",
-    "Kubernetes",
-    "SQL",
-    "NoSQL",
-    "JavaScript",
-    "TypeScript",
-    "Node.js",
-    "React",
-    "API REST",
-    "Azure"
    ]
   },
   {
