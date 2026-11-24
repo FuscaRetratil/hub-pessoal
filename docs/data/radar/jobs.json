@@ -1,12 +1,57 @@
 {
- "generated_at": "2026-11-24T05:08:34Z",
+ "generated_at": "2026-11-24T19:55:49Z",
  "sources": {
   "gupy": {
    "ok": true,
-   "count": 116
+   "count": 110
   }
  },
  "jobs": [
+  {
+   "id": "12937088",
+   "source": "gupy",
+   "title": "QA SSR",
+   "company": "Stefanini Latam",
+   "city": "Ciudad de Buenos Aires",
+   "mode": "Híbrido",
+   "level": "Não informado",
+   "area": "QA/Testes",
+   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MzcwODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-24",
+   "reqs": [
+    "Postman",
+    "Scrum",
+    "CI/CD",
+    "SQL",
+    "API REST"
+   ]
+  },
+  {
+   "id": "12938763",
+   "source": "gupy",
+   "title": "Estágio em Tecnologia, Automação e IA",
+   "company": "Limalobatocolen",
+   "city": "Belo Horizonte",
+   "mode": "Híbrido",
+   "level": "Estágio",
+   "area": "TI (geral)",
+   "url": "https://limalobatocolen.gupy.io/job/eyJqb2JJZCI6MTI5Mzg3NjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+   "published_at": "2026-11-24",
+   "reqs": [
+    "Git",
+    "GitHub",
+    "SQL",
+    "Python",
+    "JavaScript",
+    "C#",
+    "HTML",
+    "CSS",
+    "API REST",
+    "Power BI",
+    "Excel",
+    "Lógica de programação"
+   ]
+  },
   {
    "id": "12927895",
    "source": "gupy",
@@ -392,26 +437,6 @@
    ]
   },
   {
-   "id": "12882360",
-   "source": "gupy",
-   "title": "12882360| Analista de Testes PL",
-   "company": "Almaviva Solutions",
-   "city": "São Paulo",
-   "mode": "Híbrido",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://almavivasolutions.gupy.io/job/eyJqb2JJZCI6MTI4ODIzNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-16",
-   "reqs": [
-    "Testes funcionais",
-    "Testes automatizados",
-    "Testes de regressão",
-    "Scrum",
-    "Kanban",
-    "Inglês"
-   ]
-  },
-  {
    "id": "12862540",
    "source": "gupy",
    "title": "Desenvolvedor(a) Full Stack React e TypeScript",
@@ -579,22 +604,6 @@
    "published_at": "2026-11-10",
    "reqs": [
     "Testes automatizados"
-   ]
-  },
-  {
-   "id": "12861486",
-   "source": "gupy",
-   "title": "QA Automation",
-   "company": "Stefanini Latam",
-   "city": "Bogotá, D.c.",
-   "mode": "Presencial",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI4NjE0ODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-11-10",
-   "reqs": [
-    "CI/CD",
-    "API REST"
    ]
   },
   {
@@ -1150,38 +1159,6 @@
    ]
   },
   {
-   "id": "12756946",
-   "source": "gupy",
-   "title": "QA JR",
-   "company": "Stefanini Latam",
-   "city": "Ciudad de Buenos Aires",
-   "mode": "Híbrido",
-   "level": "Júnior",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI3NTY5NDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-21",
-   "reqs": []
-  },
-  {
-   "id": "12756836",
-   "source": "gupy",
-   "title": "QA JR",
-   "company": "Stefanini Latam",
-   "city": "Ciudad de Buenos Aires",
-   "mode": "Híbrido",
-   "level": "Júnior",
-   "area": "QA/Testes",
-   "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI3NTY4MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-10-21",
-   "reqs": [
-    "Selenium",
-    "Cypress",
-    "Playwright",
-    "SQL",
-    "API REST"
-   ]
-  },
-  {
    "id": "12756504",
    "source": "gupy",
    "title": "QA JR",
@@ -1571,30 +1548,6 @@
    ]
   },
   {
-   "id": "12461391",
-   "source": "gupy",
-   "title": "Sr QA Analyst",
-   "company": "topazlatam",
-   "city": "Bogotá, D.c.",
-   "mode": "Híbrido",
-   "level": "Sênior",
-   "area": "QA/Testes",
-   "url": "https://topaz.gupy.io/job/eyJqb2JJZCI6MTI0NjEzOTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-28",
-   "reqs": [
-    "Selenium",
-    "Appium",
-    "Postman",
-    "BDD",
-    "Jira",
-    "CI/CD",
-    "SQL",
-    "Java",
-    "API REST",
-    "Azure"
-   ]
-  },
-  {
    "id": "12601314",
    "source": "gupy",
    "title": "QA Automation",
@@ -1661,28 +1614,6 @@
     "SQL",
     "Java",
     "Angular"
-   ]
-  },
-  {
-   "id": "12477783",
-   "source": "gupy",
-   "title": "Hitss | QA (Automação)",
-   "company": "Hitss Brasil",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Não informado",
-   "area": "QA/Testes",
-   "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI0Nzc3ODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-09-14",
-   "reqs": [
-    "Testes automatizados",
-    "Selenium",
-    "Playwright",
-    "Robot Framework",
-    "Scrum",
-    "Kanban",
-    "Git",
-    "CI/CD"
    ]
   },
   {
@@ -1851,32 +1782,6 @@
    ]
   },
   {
-   "id": "11749201",
-   "source": "gupy",
-   "title": "QA Automação Sr - Segmento Varejista",
-   "company": "DB",
-   "city": "Remoto",
-   "mode": "Remoto",
-   "level": "Sênior",
-   "area": "QA/Testes",
-   "url": "https://db.gupy.io/job/eyJqb2JJZCI6MTE3NDkyMDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-07-22",
-   "reqs": [
-    "Testes manuais",
-    "Testes funcionais",
-    "Testes de API",
-    "Playwright",
-    "Scrum",
-    "Kanban",
-    "Git",
-    "CI/CD",
-    "SQL",
-    "NoSQL",
-    "JavaScript",
-    "TypeScript"
-   ]
-  },
-  {
    "id": "11415452",
    "source": "gupy",
    "title": "Desenvolvedor(a) Backend ou Frontend (Vaga afirmativa para Pessoa com Deficiência - PCD)",
@@ -1968,30 +1873,6 @@
     "NoSQL",
     "Python",
     "React",
-    "API REST"
-   ]
-  },
-  {
-   "id": "10704850",
-   "source": "gupy",
-   "title": "QA Automação Pl - Segmento Varejista",
-   "company": "DB",
-   "city": "Porto Alegre",
-   "mode": "Presencial",
-   "level": "Pleno",
-   "area": "QA/Testes",
-   "url": "https://db.gupy.io/job/eyJqb2JJZCI6MTA3MDQ4NTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-   "published_at": "2026-01-20",
-   "reqs": [
-    "Testes manuais",
-    "Testes automatizados",
-    "Testes de API",
-    "Casos de teste",
-    "Playwright",
-    "BDD",
-    "SQL",
-    "JavaScript",
-    "TypeScript",
     "API REST"
    ]
   },
