@@ -7,8 +7,9 @@ Para adicionar uma fonte nova (Sólides, Google Vagas...):
 """
 
 from .gupy import GupySource
+from .catcho import CathoSource
 
-FACTORIES = {"gupy": GupySource}
+FACTORIES = {"gupy": GupySource, "catho": CathoSource}
 
 
 def build_sources(config: dict, vocab: list, only: list[str] | None = None) -> list:

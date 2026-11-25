@@ -1,16 +1,15 @@
 {
   "gupy": {
-    "terms": [
+    "queries": [
       "QA",
-      "analista de testes",
-      "teste de software",
-      "qa automation",
-      "desenvolvedor frontend",
-      "desenvolvedor react",
-      "estágio em tecnologia"
+      "Qualidade"
     ],
-    "per_page": 50,
-    "max_pages": 3,
-    "delay": 1.5
+    "limit": 50
+  },
+  "catho": {
+    "queries": [
+      "qa",
+      "analista-de-testes"
+    ]
   }
 }

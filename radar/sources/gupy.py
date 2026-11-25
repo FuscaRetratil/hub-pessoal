@@ -138,10 +138,10 @@ def parse_job(raw: dict, vocab: list) -> Job | None:
 class GupySource:
     name = "gupy"
 
-    def __init__(self, vocab, terms, per_page=50, max_pages=3, delay=MIN_DELAY, session=None):
+    def __init__(self, vocab, terms=None, queries=None, per_page=50, limit=None, max_pages=3, delay=MIN_DELAY, session=None, **kwargs):
         self.vocab = vocab
-        self.terms = terms
-        self.per_page = per_page
+        self.terms = terms or queries or []
+        self.per_page = limit or per_page
         self.max_pages = max_pages
         self.delay = max(float(delay), MIN_DELAY)
         self.session = session or requests.Session()
